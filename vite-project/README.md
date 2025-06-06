@@ -7,18 +7,27 @@ ShoppyGlobe is a modern **e-commerce platform** built using **React** and **Vite
 - **Fast & Optimized**: Powered by **Vite** for blazing-fast builds and development.
 - **Modern UI**: Responsive design with **Tailwind CSS** for a sleek look.
 - **State Management**: Efficient handling of cart and user data using **Redux Toolkit**.
-- **Authentication**: Secure user login and registration with JWT.
 - **Product Listings**: Dynamic product display with search and filtering.
 - **Order Processing**: Easy checkout and payment integration.
 - **Persistent Storage**: Local storage sync to retain cart items.
-- **API Integration**: Fetch product details from a backend service.
+
 
 ## 📦 Installation
+    ```bash
+git clone https://github.com/Himanshubhadoria11/ShoppyGlobe.git
+cd ShoppyGlobe
+cd vite-project
+npm install
+npm run dev
+
+`````````
+
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ShoppyGlobe.git
+git clone https://github.com/Himanshubhadoria11/ShoppyGlobe.git
 cd ShoppyGlobe
+cd vite-project
 
 2️⃣ Install Dependencies
 bash
